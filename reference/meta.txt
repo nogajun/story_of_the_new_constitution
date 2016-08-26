@@ -1,0 +1,8 @@
+---
+title: あたらしい憲法のはなし
+author: 文部省
+language: ja
+rights: Public Domain
+cover-image: reference/cover.png
+stylesheet: reference/epubstyle.css
+...
