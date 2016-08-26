@@ -2,7 +2,7 @@
 
 これは青空文庫にある「[あたらしい憲法のはなし](http://www.aozora.gr.jp/cards/001128/card43037.html)」のテキストをMarkdown書式にしたものです。
 
-テキストは[pandoc](http://pandoc.org/)を使って縦書き文庫サイズのodtとしても出力できます。
+テキストは[pandoc](http://pandoc.org/)を使って縦書き文庫サイズ(A6)のodt文書としても出力できます。
 
 ## odtとPDFファイルへ変換
 
@@ -28,13 +28,19 @@ WindowsやMac環境でも、aptでインストールしているmake, pandoc, IP
 odtファイルはページスタイルの変更だけでなく、画像のレイアウトなども変更できます。
 画像のレイアウトを変更する際は、pandocから出力されたodtファイルは、アンカーがLibreOfficeデフォルトの「段落へ」ではなく「文字として」になっているので、アンカーをしてから画像を移動してください。
 
-スタイルやレイアウトの変更が終わればodtファイルを保存して、makeを実行するとpdfが再生成されます。
+スタイルやレイアウトの変更が終わればodtファイルを保存してmakeを実行するとpdfが再生成されます。
 
-## 原本
+## さらなる発展へ
+
+すでに気づいていると思いますが「あたらしい憲法のはなし」だけに限らず、Markdown文書であれば、なんでも文庫として出力できるので活用してください。
+
+## 「あたらしい憲法のはなし」原本
 
 * 国立国会図書館デジタルコレクション - あたらしい憲法のはなし: <http://dl.ndl.go.jp/info:ndljp/pid/1710431>
 * 国立国会図書館デジタルコレクション - あたらしい憲法のはなし: <http://dl.ndl.go.jp/info:ndljp/pid/1113070>
 
-## さらなる
+## ライセンス
 
+Public Domain
 
+[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
