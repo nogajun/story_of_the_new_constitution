@@ -272,6 +272,10 @@
 2004年6月9日作成  
 2013年6月7日修正  
 
-青空文庫作成ファイル： [43037_txt_15619.zip](http://www.aozora.gr.jp/cards/001128/files/43037\_txt\_15619.zip)
+青空文庫作成ファイル： [43037_txt_15619.zip](http://www.aozora.gr.jp/cards/001128/files/43037_txt_15619.zip)
 
 このファイルは、インターネットの図書館、[青空文庫](http://www.aozora.gr.jp/)で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
+
+あたらしい憲法のはなし(Markdown版): <https://github.com/nogajun/story_of_the_new_constitution>  
+野方純(@nogajun) <nogajun@gmail.com>
+
